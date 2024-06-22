@@ -12,6 +12,7 @@
 Everything you need to quickly build your SaaS, AI product, or any other web application fast giving you time to focus on what really matters
 
 ## Battries Include
+
 - Functional subscription payments via Stripe
 - User authentication
 - Built in api ratelimiting
@@ -45,7 +46,6 @@ Everything you need to quickly build your SaaS, AI product, or any other web app
     </a>
 </div>
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -62,31 +62,31 @@ Everything you need to quickly build your SaaS, AI product, or any other web app
 ### Installation
 
 1. Clone the repository:
-    ```
-    git clone https://github.com/michaelshimeles/nextjs14-starter-template
-    ```
+   ```
+   git clone https://github.com/Yele-the1st/nextjs-starter-kit.git
+   ```
 2. Install the required dependencies:
-    ```
-    npm install
-    ```
-    or
-    ```
-    bun install
-    ```
+   ```
+   npm install
+   ```
+   or
+   ```
+   bun install
+   ```
 3. Create a `.env` file in the root of your project and add your API keys:
-    ```
-    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-    CLERK_SECRET_KEY=
-    NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-    NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-    NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
-    NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
-    WEBHOOK_SECRET=
-    NEXT_PUBLIC_SUPABASE_URL=
-    NEXT_PUBLIC_SUPABASE_ANON_KEY=
-    DATABASE_URL=
-    DIRECT_URL=
-
+   ```
+   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+   CLERK_SECRET_KEY=
+   NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+   NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+   NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+   NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+   WEBHOOK_SECRET=
+   NEXT_PUBLIC_SUPABASE_URL=
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=
+   DATABASE_URL=
+   DIRECT_URL=
+   ```
 
 ### Setting up webhooks
 
@@ -98,19 +98,20 @@ You need to setup webhooks for both Clerk Auth & Stripe.
 ### Running the Server
 
 To start the server, execute:
+
 ```
 npm run dev
 ```
+
 or
+
 ```
 yarn dev
 ```
 
-
 ## Contributing
 
 Contributions to the project are welcome. Feel free to fork the repository, make your changes, and submit a pull request. You can also open issues to suggest improvements or report bugs.
-
 
 ## License
 
