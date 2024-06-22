@@ -4,8 +4,7 @@
         <a href="https://x.com/yelethe1st">
             <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
         </a>
-        
-    </div>
+        </div>
 
 Everything you need to quickly build your SaaS, AI product, or any other web application fast giving you time to focus on what really matters
 
