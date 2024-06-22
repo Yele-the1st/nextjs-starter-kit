@@ -1,12 +1,10 @@
 <h1 align="center">Nextjs Starter Kit: The Complete SAAS Toolkit</h1>
 <div>
     <div align="center">
-        <a href="https://x.com/rasmickyy">
+        <a href="https://x.com/yelethe1st">
             <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
         </a>
-        <a href="https://www.youtube.com/@rasmic">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-        </a>
+        
     </div>
 
 Everything you need to quickly build your SaaS, AI product, or any other web application fast giving you time to focus on what really matters
