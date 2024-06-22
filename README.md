@@ -32,20 +32,6 @@ Everything you need to quickly build your SaaS, AI product, or any other web app
 - **Upstash**: A serverless database with built-in rate limiting for scalable, low-latency data operations.
 - **Shadcn, SyntaxUI, MagicUI, Hover.dev**: Different component/UI libraries used for design
 
-## YouTube Tutorials
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.youtube.com/watch?v=pxFzHV35B-U">
-        <img src="https://i9.ytimg.com/vi/pxFzHV35B-U/mqdefault.jpg?v=65d394d0&sqp=CKzFubIG&rs=AOn4CLA-3abshU6BgDfpPTsENkv4cWGG4w" alt="Tutorial 2" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://www.youtube.com/watch?v=pnjLxMyxb9E">
-        <img src="https://i9.ytimg.com/vi/pnjLxMyxb9E/mqdefault.jpg?v=66241e0b&sqp=CKzFubIG&rs=AOn4CLDDPPJPjdhgfP9DDwFz9iG4JQ2zrg" alt="Tutorial 1" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://www.youtube.com/watch?v=dmikdnfpCw0">
-        <img src="https://i9.ytimg.com/vi/dmikdnfpCw0/mqdefault.jpg?v=6615ba75&sqp=CKzFubIG&rs=AOn4CLDdo4a4eJDwnB4xlEHE5l7MZQDpyw" alt="Tutorial 4" style="width: 24%; height: auto;">
-    </a>
-</div>
-
 ## Getting Started
 
 ### Prerequisites
